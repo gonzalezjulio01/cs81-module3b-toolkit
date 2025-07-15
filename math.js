@@ -6,3 +6,8 @@ function double(n) {
 function square(n) {
   return n * n;
 }
+
+// isEven(n) - returns true if n is even, false if not
+function isEven(n) {
+  return n % 2 === 0;
+}
