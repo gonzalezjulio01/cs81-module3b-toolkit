@@ -40,3 +40,15 @@ I think isOdd(n) will return true if the number is odd, and false if it’s even
 - isOdd(0) should return false
 - isOdd(-3) should return true
 - isOdd(-2) should return false
+
+---
+
+## multiply(a, b) Prediction
+
+I think multiply(a, b) will return the result of a times b.
+
+- multiply(2, 3) should return 6
+- multiply(4, 0) should return 0
+- multiply(5, -1) should return -5
+- multiply(-3, -2) should return 6
+- multiply(10, 1) should return 10
