@@ -27,3 +27,15 @@ console.log(isEven(-4));   // Output: true
 console.log(isEven(-3));   // Output: false
 
 These results matched my prediction
+
+---
+
+## isOdd(n) Results
+
+console.log(isOdd(1));    // Output: true  
+console.log(isOdd(4));    // Output: false  
+console.log(isOdd(0));    // Output: false  
+console.log(isOdd(-3));   // Output: true  
+console.log(isOdd(-2));   // Output: false
+
+These results matched my prediction
