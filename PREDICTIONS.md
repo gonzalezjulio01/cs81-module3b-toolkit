@@ -16,3 +16,15 @@ I think square(n) will return n multiplied by itself.
 - square(2) should return 4
 - square(5) should return 25
 - square(-3) should return 9
+
+---
+
+## isEven(n) Prediction
+
+I think isEven(n) will return true if the number is even, and false if it’s odd.
+
+- isEven(2) should return true
+- isEven(5) should return false
+- isEven(0) should return true
+- isEven(-4) should return true
+- isEven(-3) should return false
