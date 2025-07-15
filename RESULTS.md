@@ -39,3 +39,15 @@ console.log(isOdd(-3));   // Output: true
 console.log(isOdd(-2));   // Output: false
 
 These results matched my prediction
+
+---
+
+## multiply(a, b) Results
+
+console.log(multiply(2, 3));    // Output: 6  
+console.log(multiply(4, 0));    // Output: 0  
+console.log(multiply(5, -1));   // Output: -5  
+console.log(multiply(-3, -2));  // Output: 6  
+console.log(multiply(10, 1));   // Output: 10
+
+These results matched my prediction
