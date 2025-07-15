@@ -28,3 +28,15 @@ I think isEven(n) will return true if the number is even, and false if it’s od
 - isEven(0) should return true
 - isEven(-4) should return true
 - isEven(-3) should return false
+
+---
+
+## isOdd(n) Prediction
+
+I think isOdd(n) will return true if the number is odd, and false if it’s even.
+
+- isOdd(1) should return true
+- isOdd(4) should return false
+- isOdd(0) should return false
+- isOdd(-3) should return true
+- isOdd(-2) should return false
