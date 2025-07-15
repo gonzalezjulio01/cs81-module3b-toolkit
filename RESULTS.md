@@ -15,3 +15,15 @@ console.log(square(5));   // Output: 25
 console.log(square(-3));  // Output: 9
 
 These results match my prediction
+
+---
+
+## isEven(n) Results
+
+console.log(isEven(2));    // Output: true  
+console.log(isEven(5));    // Output: false  
+console.log(isEven(0));    // Output: true  
+console.log(isEven(-4));   // Output: true  
+console.log(isEven(-3));   // Output: false
+
+These results matched my prediction
